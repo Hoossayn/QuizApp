@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">1.  Android is based on which kernel??</string>
+    <string name="question1_choice1">Linux kernel</string>
+    <string name="question1_choice2">Windows kernel</string>
+    <string name="question1_choice3">Google kernel</string>
+    <string name="question1_choice4">Mac kernel</string>
+
+    <string name="question2">2. What is the full meaning of ANR?</string>
+
+    <string name="question3">3. Persist data can be stored in Android through? </string>
+    <string name="question3_choice1">Internal/ External Storage</string>
+    <string name="question3_choice2">Cloud</string>
+    <string name="question3_choice3">Shared Preferences</string>
+    <string name="question3_choice4">Network Server</string>
+
+    <string name="question4">4. __________ is run when android is running on a pc?</string>
+    <string name="question4_option1">Entire</string>
+    <string name="question4_option2">Android sdk</string>
+    <string name="question4_option3">Emulator</string>
+    <string name="question4_option4">Parser</string>
+
+    <string name="question5">5. Which of the following are supported dialog boxes in android?</string>
+    <string name="question5_choice1">AlertDialog</string>
+    <string name="question5_choice2">DatePickerDialog</string>
+    <string name="question5_choice3">LoadingDialog</string>
+    <string name="question5_choice4">TimePickerDialog</string>
+
+    <string name="number6">6. The intent sender that specifies the type of receiver is called?</string>
+
+    <string name="number7">7.Which of the following(s) is/are the core component under the Android Architecture?</string>
+    <string name="question7_choice1">Manifest File</string>
+    <string name="question7_choice2">Services</string>
+    <string name="question7_choice3">Intent</string>
+    <string name="question7_choice4">notification</string>
+
+    <string name="question8">8. Which of the following don\'t have any UI component and run as a background process?</string>
+    <string name="question8_option1">Simulator</string>
+    <string name="question8_option2">Services</string>
+    <string name="question8_option3">Emulator</string>
+    <string name="question8_option4">Non of the above</string>
+
+    <string name="question9">9. Android Studio is an example of a/an_______?</string>
+
+
+    <string name="question10">10. ADB stands for _________?</string>
+    <string name="question10_option1">Application Debug bridge </string>
+    <string name="question10_option2">Android Debug Bridge</string>
+    <string name="question10_option3">Android Data bridge</string>
+    <string name="question10_option4">Application Data Bridge</string>
+
+
+    <string name="submit_answers">Submit</string>
+    <string name="correcction">Solution</string>
+
+</resources>
